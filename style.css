@@ -58,17 +58,19 @@ p{
     color:grey;
 }
 .div-main{
-    display:flex;
+    display:flex;    
 }
-.div-left{
-    width:5%;
-    padding-right:10px;
+.div-3 img{
+    width:100%;
+    padding-left:39px;
+   padding-top: 39px;
 }
-.div-middle{
-    width:5%;
-    padding-right: 10px;
+
+.div-3{
+    padding-right: 80px;
+    margin-right: 5%;
+    border-radius: 20px; 
+    box-shadow: 10px 10px 40px blue;
+   
 }
-.div-right{
-    width:5%;
-    padding-right:10px
-}
+  
