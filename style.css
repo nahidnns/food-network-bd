@@ -1,0 +1,25 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size:65px;
+}
+.color-tomato{
+    color:tomato;
+}
+.color-green{
+    color:green;
+}
+.section-part{
+    display:flex;
+    padding-left:5% ;
+}
+.link-button{
+    background-image:linear-gradient(orange,tomato);
+    text-decoration:none ;
+    padding:20px 50px;
+    font-weight: 700;
+    color:white;
+    border-radius:30px;
+    
+}
