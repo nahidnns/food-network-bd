@@ -18,8 +18,7 @@ h2{
     display:flex;
     padding-left:5% ;
     padding-right: 2%;
-    padding-bottom: 100px;
-    
+    padding-bottom: 100px;   
 }
 .section-part-2{
     display:flex;
@@ -59,11 +58,11 @@ p{
 }
 .div-main{
     display:flex;    
+    padding-bottom: 100px;
 }
 .div-3 img{
     width:100%;
-    margin:5%;
-   
+    margin:5%;  
 }
 
 .div-3{
@@ -76,4 +75,35 @@ p{
 .box-paragraph{
     padding-left: 15px;
 }
-  
+.section-part-4{
+    padding-bottom: 100px;
+}
+  .div-main-last{
+      display:flex;
+     padding-bottom: 25px;
+     padding-left: 100px;
+     border-radius: 100px;
+      box-shadow: 10px 10px 40px grey;
+  }
+.div-left{
+    text-align:left; 
+    padding-right: 150px;
+    padding-left: 200px;
+}
+.div-center{
+    text-align:center; 
+}
+.div-right{
+    text-align: right;
+    padding-right:200px ;
+    padding-left: 150px;
+}
+.edit-footer{
+    text-align: center;
+    padding-bottom:100px;
+    padding-top:50px;
+    background-color:darkslategray;
+}
+footer p{
+    text-align: center;
+}
