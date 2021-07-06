@@ -14,6 +14,9 @@ h2{
 .color-green{
     color:green;
 }
+.color-gray{
+    color:grey;
+}
 .section-part-1{
     display:flex;
     padding-left:5% ;
@@ -22,12 +25,22 @@ h2{
 }
 .section-part-2{
     display:flex;
-    background-image: url(assosories/images/shapes/7.png);
+    background-image: url(assosories/images/shapes/Frame\ 56.jpg);
     padding-top: 40px;
+}
+.section-part-3{
+    padding-top: 80px;
+    padding-left: 5%;
+}
+.section-part-5{
+    padding-bottom: 100px;
 }
 .half-width{
     width:50%;
     padding-right:20px;
+}
+.half-width img{
+    width:100%;
 }
 .link-button{
     background-image:linear-gradient(orange,tomato);
@@ -42,6 +55,7 @@ p{
 }
 .paragraph{
     padding-bottom:50px;
+    width:60%;
 }
 #paragraph-2{
     padding-right: 250px;
@@ -49,13 +63,8 @@ p{
 .text-align{
     text-align: center;
 }
-.section-part-3{
-    padding-top: 80px;
-    padding-left: 5%;
-}
-.color-gray{
-    color:grey;
-}
+
+
 .div-main{
     display:flex;    
     padding-bottom: 100px;
@@ -70,23 +79,24 @@ p{
     padding-bottom: 30px;
     margin-right: 5%;
     border-radius: 25px; 
-    box-shadow: 10px 10px 40px grey;
+    box-shadow: 10px 10px 40px skyblue;
 }
 .box-paragraph{
     padding-left: 15px;
 }
-.section-part-4{
-    padding-bottom: 100px;
-}
+
   .div-main-last{
-      display:flex;
-     padding-bottom: 25px;
-     padding-left: 100px;
-     border-radius: 100px;
-      box-shadow: 10px 10px 40px grey;
+    display:flex;
+    text-align:center;
+    padding-bottom: 25px;
+    padding-left:50px;
+    margin-left: 60px;
+    margin-right:60px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 30px red;
   }
 .div-left{
-    text-align:left; 
+    text-align:center; 
     padding-right: 150px;
     padding-left: 200px;
 }
@@ -94,7 +104,7 @@ p{
     text-align:center; 
 }
 .div-right{
-    text-align: right;
+    text-align:center;
     padding-right:200px ;
     padding-left: 150px;
 }
